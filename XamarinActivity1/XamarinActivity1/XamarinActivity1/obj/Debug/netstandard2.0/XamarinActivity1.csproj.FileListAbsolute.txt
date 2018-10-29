@@ -1,0 +1,13 @@
+D:\Xamarin\XamarinActivity1\XamarinActivity1\XamarinActivity1\bin\Debug\netstandard2.0\XamarinActivity1.deps.json
+D:\Xamarin\XamarinActivity1\XamarinActivity1\XamarinActivity1\bin\Debug\netstandard2.0\XamarinActivity1.dll
+D:\Xamarin\XamarinActivity1\XamarinActivity1\XamarinActivity1\bin\Debug\netstandard2.0\XamarinActivity1.pdb
+D:\Xamarin\XamarinActivity1\XamarinActivity1\XamarinActivity1\obj\Debug\netstandard2.0\XamarinActivity1.csprojAssemblyReference.cache
+D:\Xamarin\XamarinActivity1\XamarinActivity1\XamarinActivity1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin\XamarinActivity1\XamarinActivity1\XamarinActivity1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Xamarin\XamarinActivity1\XamarinActivity1\XamarinActivity1\obj\Debug\netstandard2.0\QuotesPage.xaml.g.cs
+D:\Xamarin\XamarinActivity1\XamarinActivity1\XamarinActivity1\obj\Debug\netstandard2.0\XamarinActivity1.csproj.CoreCompileInputs.cache
+D:\Xamarin\XamarinActivity1\XamarinActivity1\XamarinActivity1\obj\Debug\netstandard2.0\XamarinActivity1.AssemblyInfoInputs.cache
+D:\Xamarin\XamarinActivity1\XamarinActivity1\XamarinActivity1\obj\Debug\netstandard2.0\XamarinActivity1.AssemblyInfo.cs
+D:\Xamarin\XamarinActivity1\XamarinActivity1\XamarinActivity1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin\XamarinActivity1\XamarinActivity1\XamarinActivity1\obj\Debug\netstandard2.0\XamarinActivity1.dll
+D:\Xamarin\XamarinActivity1\XamarinActivity1\XamarinActivity1\obj\Debug\netstandard2.0\XamarinActivity1.pdb

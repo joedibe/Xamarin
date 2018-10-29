@@ -1,0 +1,12 @@
+D:\Xamarin\XamarinActivity2\XamarinActivity2\XamarinActivity2\bin\Release\netstandard2.0\XamarinActivity2.deps.json
+D:\Xamarin\XamarinActivity2\XamarinActivity2\XamarinActivity2\bin\Release\netstandard2.0\XamarinActivity2.dll
+D:\Xamarin\XamarinActivity2\XamarinActivity2\XamarinActivity2\bin\Release\netstandard2.0\XamarinActivity2.pdb
+D:\Xamarin\XamarinActivity2\XamarinActivity2\XamarinActivity2\obj\Release\netstandard2.0\XamarinActivity2.csprojAssemblyReference.cache
+D:\Xamarin\XamarinActivity2\XamarinActivity2\XamarinActivity2\obj\Release\netstandard2.0\App.xaml.g.cs
+D:\Xamarin\XamarinActivity2\XamarinActivity2\XamarinActivity2\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+D:\Xamarin\XamarinActivity2\XamarinActivity2\XamarinActivity2\obj\Release\netstandard2.0\XamarinActivity2.csproj.CoreCompileInputs.cache
+D:\Xamarin\XamarinActivity2\XamarinActivity2\XamarinActivity2\obj\Release\netstandard2.0\XamarinActivity2.AssemblyInfoInputs.cache
+D:\Xamarin\XamarinActivity2\XamarinActivity2\XamarinActivity2\obj\Release\netstandard2.0\XamarinActivity2.AssemblyInfo.cs
+D:\Xamarin\XamarinActivity2\XamarinActivity2\XamarinActivity2\obj\Release\netstandard2.0\XamlC.stamp
+D:\Xamarin\XamarinActivity2\XamarinActivity2\XamarinActivity2\obj\Release\netstandard2.0\XamarinActivity2.dll
+D:\Xamarin\XamarinActivity2\XamarinActivity2\XamarinActivity2\obj\Release\netstandard2.0\XamarinActivity2.pdb

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinActivity1.QuotesPage">
+    <ContentPage.Content>
+        
+        <StackLayout>
+            
+            <StackLayout
+                Orientation="Horizontal">
+                <Button
+                    x:Name="backButton"
+                    Text="Back"
+                    HorizontalOptions="StartAndExpand"/>
+                <Button
+                    x:Name="nextButton"
+                    Text="Next"
+                    HorizontalOptions="EndAndExpand"/>
+            </StackLayout>
+            
+            <StackLayout BindingContext="{x:Reference fontSizeSlider}">
+                
+                <StackLayout>
+                    <Label 
+                        Text="{Binding Value, StringFormat='Font Size: {0:F0}'}"
+                        FontSize="{Binding Value}"/>
+                    <Slider 
+                        x:Name="fontSizeSlider"/>
+                </StackLayout>
+                
+                <ScrollView 
+                    x:Name="scrollView">
+                    <Label 
+                        x:Name="quoteLabel"
+                        FontSize="{Binding Value}"/>
+                </ScrollView>
+            
+            </StackLayout>
+        
+        </StackLayout>
+    
+    </ContentPage.Content>
+</ContentPage>

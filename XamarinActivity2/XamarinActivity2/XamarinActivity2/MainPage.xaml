@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinActivity2.MainPage">
+
+    <StackLayout>
+        
+        <StackLayout
+            Padding="0, 40, 0, 0">
+            <BoxView 
+                x:Name="box"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"/>
+        </StackLayout>
+        
+        <StackLayout
+            BindingContext="{x:Reference redSlider}">
+            <Label 
+                Text="{Binding Value, StringFormat='Red: {0:F0}'}"/>
+            <Slider
+                x:Name="redSlider"/>
+        </StackLayout>
+        
+        <StackLayout
+            BindingContext="{x:Reference greenSlider}">
+            <Label 
+                Text="{Binding Value, StringFormat='Green: {0:F0}'}"/>
+            <Slider
+                x:Name="greenSlider"/>
+        </StackLayout>
+        
+        <StackLayout
+            BindingContext="{x:Reference blueSlider}">
+            <Label 
+                Text="{Binding Value, StringFormat='Blue: {0:F0}'}"/>
+            <Slider
+                x:Name="blueSlider"/>
+        </StackLayout>
+    
+    </StackLayout>
+
+</ContentPage>
