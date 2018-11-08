@@ -1,0 +1,13 @@
+C:\Users\jibe\Desktop\Exercise\AbsoluteLayout\AbsoluteLayout\AbsoluteLayout\bin\Debug\netstandard2.0\AbsoluteLayout.dll
+C:\Users\jibe\Desktop\Exercise\AbsoluteLayout\AbsoluteLayout\AbsoluteLayout\bin\Debug\netstandard2.0\download.jpg
+C:\Users\jibe\Desktop\Exercise\AbsoluteLayout\AbsoluteLayout\AbsoluteLayout\bin\Debug\netstandard2.0\AbsoluteLayout.deps.json
+C:\Users\jibe\Desktop\Exercise\AbsoluteLayout\AbsoluteLayout\AbsoluteLayout\bin\Debug\netstandard2.0\AbsoluteLayout.pdb
+C:\Users\jibe\Desktop\Exercise\AbsoluteLayout\AbsoluteLayout\AbsoluteLayout\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jibe\Desktop\Exercise\AbsoluteLayout\AbsoluteLayout\AbsoluteLayout\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jibe\Desktop\Exercise\AbsoluteLayout\AbsoluteLayout\AbsoluteLayout\obj\Debug\netstandard2.0\AbsoluteLayout.csproj.CoreCompileInputs.cache
+C:\Users\jibe\Desktop\Exercise\AbsoluteLayout\AbsoluteLayout\AbsoluteLayout\obj\Debug\netstandard2.0\AbsoluteLayout.AssemblyInfoInputs.cache
+C:\Users\jibe\Desktop\Exercise\AbsoluteLayout\AbsoluteLayout\AbsoluteLayout\obj\Debug\netstandard2.0\AbsoluteLayout.AssemblyInfo.cs
+C:\Users\jibe\Desktop\Exercise\AbsoluteLayout\AbsoluteLayout\AbsoluteLayout\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jibe\Desktop\Exercise\AbsoluteLayout\AbsoluteLayout\AbsoluteLayout\obj\Debug\netstandard2.0\AbsoluteLayout.dll
+C:\Users\jibe\Desktop\Exercise\AbsoluteLayout\AbsoluteLayout\AbsoluteLayout\obj\Debug\netstandard2.0\AbsoluteLayout.pdb
+C:\Users\jibe\Desktop\Exercise\AbsoluteLayout\AbsoluteLayout\AbsoluteLayout\obj\Debug\netstandard2.0\AbsoluteLayout.csprojAssemblyReference.cache

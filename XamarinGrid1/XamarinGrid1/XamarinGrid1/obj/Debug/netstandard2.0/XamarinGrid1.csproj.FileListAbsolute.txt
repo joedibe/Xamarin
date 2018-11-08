@@ -1,0 +1,12 @@
+D:\Assignment\XamarinGrid1\XamarinGrid1\XamarinGrid1\bin\Debug\netstandard2.0\XamarinGrid1.deps.json
+D:\Assignment\XamarinGrid1\XamarinGrid1\XamarinGrid1\bin\Debug\netstandard2.0\XamarinGrid1.dll
+D:\Assignment\XamarinGrid1\XamarinGrid1\XamarinGrid1\bin\Debug\netstandard2.0\XamarinGrid1.pdb
+D:\Assignment\XamarinGrid1\XamarinGrid1\XamarinGrid1\obj\Debug\netstandard2.0\XamarinGrid1.csprojAssemblyReference.cache
+D:\Assignment\XamarinGrid1\XamarinGrid1\XamarinGrid1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Assignment\XamarinGrid1\XamarinGrid1\XamarinGrid1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Assignment\XamarinGrid1\XamarinGrid1\XamarinGrid1\obj\Debug\netstandard2.0\XamarinGrid1.csproj.CoreCompileInputs.cache
+D:\Assignment\XamarinGrid1\XamarinGrid1\XamarinGrid1\obj\Debug\netstandard2.0\XamarinGrid1.AssemblyInfoInputs.cache
+D:\Assignment\XamarinGrid1\XamarinGrid1\XamarinGrid1\obj\Debug\netstandard2.0\XamarinGrid1.AssemblyInfo.cs
+D:\Assignment\XamarinGrid1\XamarinGrid1\XamarinGrid1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Assignment\XamarinGrid1\XamarinGrid1\XamarinGrid1\obj\Debug\netstandard2.0\XamarinGrid1.dll
+D:\Assignment\XamarinGrid1\XamarinGrid1\XamarinGrid1\obj\Debug\netstandard2.0\XamarinGrid1.pdb

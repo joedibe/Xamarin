@@ -1,0 +1,12 @@
+D:\Assignment\XamarinGrid2\XamarinGrid2\XamarinGrid2\bin\Release\netstandard2.0\XamarinGrid2.deps.json
+D:\Assignment\XamarinGrid2\XamarinGrid2\XamarinGrid2\bin\Release\netstandard2.0\XamarinGrid2.dll
+D:\Assignment\XamarinGrid2\XamarinGrid2\XamarinGrid2\bin\Release\netstandard2.0\XamarinGrid2.pdb
+D:\Assignment\XamarinGrid2\XamarinGrid2\XamarinGrid2\obj\Release\netstandard2.0\XamarinGrid2.csprojAssemblyReference.cache
+D:\Assignment\XamarinGrid2\XamarinGrid2\XamarinGrid2\obj\Release\netstandard2.0\App.xaml.g.cs
+D:\Assignment\XamarinGrid2\XamarinGrid2\XamarinGrid2\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+D:\Assignment\XamarinGrid2\XamarinGrid2\XamarinGrid2\obj\Release\netstandard2.0\XamarinGrid2.csproj.CoreCompileInputs.cache
+D:\Assignment\XamarinGrid2\XamarinGrid2\XamarinGrid2\obj\Release\netstandard2.0\XamarinGrid2.AssemblyInfoInputs.cache
+D:\Assignment\XamarinGrid2\XamarinGrid2\XamarinGrid2\obj\Release\netstandard2.0\XamarinGrid2.AssemblyInfo.cs
+D:\Assignment\XamarinGrid2\XamarinGrid2\XamarinGrid2\obj\Release\netstandard2.0\XamlC.stamp
+D:\Assignment\XamarinGrid2\XamarinGrid2\XamarinGrid2\obj\Release\netstandard2.0\XamarinGrid2.dll
+D:\Assignment\XamarinGrid2\XamarinGrid2\XamarinGrid2\obj\Release\netstandard2.0\XamarinGrid2.pdb

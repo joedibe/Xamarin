@@ -1,0 +1,12 @@
+D:\Assignment\XamarinStackLayout2\XamarinStackLayout2\XamarinStackLayout2\bin\Debug\netstandard2.0\XamarinStackLayout2.deps.json
+D:\Assignment\XamarinStackLayout2\XamarinStackLayout2\XamarinStackLayout2\bin\Debug\netstandard2.0\XamarinStackLayout2.dll
+D:\Assignment\XamarinStackLayout2\XamarinStackLayout2\XamarinStackLayout2\bin\Debug\netstandard2.0\XamarinStackLayout2.pdb
+D:\Assignment\XamarinStackLayout2\XamarinStackLayout2\XamarinStackLayout2\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Assignment\XamarinStackLayout2\XamarinStackLayout2\XamarinStackLayout2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Assignment\XamarinStackLayout2\XamarinStackLayout2\XamarinStackLayout2\obj\Debug\netstandard2.0\XamarinStackLayout2.csproj.CoreCompileInputs.cache
+D:\Assignment\XamarinStackLayout2\XamarinStackLayout2\XamarinStackLayout2\obj\Debug\netstandard2.0\XamarinStackLayout2.AssemblyInfoInputs.cache
+D:\Assignment\XamarinStackLayout2\XamarinStackLayout2\XamarinStackLayout2\obj\Debug\netstandard2.0\XamarinStackLayout2.AssemblyInfo.cs
+D:\Assignment\XamarinStackLayout2\XamarinStackLayout2\XamarinStackLayout2\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Assignment\XamarinStackLayout2\XamarinStackLayout2\XamarinStackLayout2\obj\Debug\netstandard2.0\XamarinStackLayout2.dll
+D:\Assignment\XamarinStackLayout2\XamarinStackLayout2\XamarinStackLayout2\obj\Debug\netstandard2.0\XamarinStackLayout2.pdb
+D:\Assignment\XamarinStackLayout2\XamarinStackLayout2\XamarinStackLayout2\obj\Debug\netstandard2.0\XamarinStackLayout2.csprojAssemblyReference.cache

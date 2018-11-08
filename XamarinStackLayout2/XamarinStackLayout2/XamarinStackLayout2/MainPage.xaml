@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:XamarinStackLayout2"
+             x:Class="XamarinStackLayout2.MainPage">
+
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness">
+            <On Platform="iOS" Value="0, 20, 0, 0"/>
+            <On Platform="Android, UWP" Value="0, 0, 0, 0"/>
+        </OnPlatform>
+    </ContentPage.Padding>
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="withPaddingStackLayout" TargetType="StackLayout">
+                <Setter Property="Padding" Value="10, 0, 10, 0"/>
+            </Style>
+            <Style x:Key="plainButton" TargetType="Button">
+                <Setter Property="BackgroundColor" Value="Transparent"/>
+                <Setter Property="TextColor" Value="#1dabf0"/>
+            </Style>
+            <Style x:Key="plainLabel" TargetType="Label">
+                <Setter Property="FontSize" Value="Medium"/>
+                <Setter Property="TextColor" Value="Black"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <StackLayout Spacing="15">
+        <StackLayout Style="{StaticResource withPaddingStackLayout}">
+            <Label Text="nyc_photographer"
+                   Style="{StaticResource plainLabel}"/>
+        </StackLayout>
+        <StackLayout>
+            <Image Source="http://placehold.it/1920x1080" 
+                   VerticalOptions="CenterAndExpand"/>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal"
+                     Style="{StaticResource withPaddingStackLayout}">
+            <Button Text="Like" 
+                    Style="{StaticResource plainButton}"/>
+            <Button Text="Comment" 
+                    Style="{StaticResource plainButton}"/>
+            <Button Text="Share" 
+                    Style="{StaticResource plainButton}"/>
+        </StackLayout>
+        <StackLayout Style="{StaticResource withPaddingStackLayout}">
+            <BoxView BackgroundColor="#f0f0f0" 
+                     HeightRequest="1">
+            </BoxView>
+        </StackLayout>
+        <StackLayout Style="{StaticResource withPaddingStackLayout}">
+            <Label Text="700 likes" 
+                   FontAttributes="Bold" 
+                   Style="{StaticResource plainLabel}"/>
+        </StackLayout>
+        <StackLayout Style="{StaticResource withPaddingStackLayout}">
+            <Label Text="This is a shot yesterday in Skanor, Sweden, when driving home, from a couple of days of work in Denmark."
+                   Style="{StaticResource plainLabel}"/>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

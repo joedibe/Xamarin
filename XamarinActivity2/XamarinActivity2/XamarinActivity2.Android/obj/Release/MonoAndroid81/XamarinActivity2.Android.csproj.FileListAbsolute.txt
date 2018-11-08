@@ -92,6 +92,7 @@ D:\Xamarin\XamarinActivity2\XamarinActivity2\XamarinActivity2.Android\obj\Releas
 D:\Xamarin\XamarinActivity2\XamarinActivity2\XamarinActivity2.Android\obj\Release\MonoAndroid81\android\assets\Xamarin.Forms.Xaml.pdb
 D:\Xamarin\XamarinActivity2\XamarinActivity2\XamarinActivity2.Android\obj\Release\MonoAndroid81\android\assets\XamarinActivity2.pdb
 D:\Xamarin\XamarinActivity2\XamarinActivity2\XamarinActivity2.Android\bin\Release\XamarinActivity2.Android.dll
+D:\Xamarin\XamarinActivity2\XamarinActivity2\XamarinActivity2.Android\obj\Release\MonoAndroid81\linksrc\XamarinActivity2.pdb
 D:\Xamarin\XamarinActivity2\XamarinActivity2\XamarinActivity2.Android\obj\Release\MonoAndroid81\linksrc\XamarinActivity2.Android.dll.mdb
 D:\Xamarin\XamarinActivity2\XamarinActivity2\XamarinActivity2.Android\obj\Release\MonoAndroid81\linksrc\FormsViewGroup.dll.mdb
 D:\Xamarin\XamarinActivity2\XamarinActivity2\XamarinActivity2.Android\obj\Release\MonoAndroid81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb

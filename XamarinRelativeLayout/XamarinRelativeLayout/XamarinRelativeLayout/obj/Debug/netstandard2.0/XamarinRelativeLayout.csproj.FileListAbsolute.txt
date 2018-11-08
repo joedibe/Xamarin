@@ -1,0 +1,13 @@
+D:\Xamarin\XamarinRelativeLayout\XamarinRelativeLayout\XamarinRelativeLayout\bin\Debug\netstandard2.0\XamarinRelativeLayout.deps.json
+D:\Xamarin\XamarinRelativeLayout\XamarinRelativeLayout\XamarinRelativeLayout\bin\Debug\netstandard2.0\XamarinRelativeLayout.dll
+D:\Xamarin\XamarinRelativeLayout\XamarinRelativeLayout\XamarinRelativeLayout\bin\Debug\netstandard2.0\XamarinRelativeLayout.pdb
+D:\Xamarin\XamarinRelativeLayout\XamarinRelativeLayout\XamarinRelativeLayout\obj\Debug\netstandard2.0\XamarinRelativeLayout.csprojAssemblyReference.cache
+D:\Xamarin\XamarinRelativeLayout\XamarinRelativeLayout\XamarinRelativeLayout\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin\XamarinRelativeLayout\XamarinRelativeLayout\XamarinRelativeLayout\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+D:\Xamarin\XamarinRelativeLayout\XamarinRelativeLayout\XamarinRelativeLayout\obj\Debug\netstandard2.0\XamarinRelativeLayout.csproj.CoreCompileInputs.cache
+D:\Xamarin\XamarinRelativeLayout\XamarinRelativeLayout\XamarinRelativeLayout\obj\Debug\netstandard2.0\XamarinRelativeLayout.AssemblyInfoInputs.cache
+D:\Xamarin\XamarinRelativeLayout\XamarinRelativeLayout\XamarinRelativeLayout\obj\Debug\netstandard2.0\XamarinRelativeLayout.AssemblyInfo.cs
+D:\Xamarin\XamarinRelativeLayout\XamarinRelativeLayout\XamarinRelativeLayout\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin\XamarinRelativeLayout\XamarinRelativeLayout\XamarinRelativeLayout\obj\Debug\netstandard2.0\XamarinRelativeLayout.dll
+D:\Xamarin\XamarinRelativeLayout\XamarinRelativeLayout\XamarinRelativeLayout\obj\Debug\netstandard2.0\XamarinRelativeLayout.pdb
+D:\Xamarin\XamarinRelativeLayout\XamarinRelativeLayout\XamarinRelativeLayout\obj\Debug\netstandard2.0\Page2.xaml.g.cs

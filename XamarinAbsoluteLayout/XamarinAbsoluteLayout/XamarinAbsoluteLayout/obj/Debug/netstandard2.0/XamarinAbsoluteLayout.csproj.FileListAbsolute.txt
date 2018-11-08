@@ -1,0 +1,16 @@
+D:\Xamarin\XamarinAbsoluteLayout\XamarinAbsoluteLayout\XamarinAbsoluteLayout\bin\Debug\netstandard2.0\XamarinAbsoluteLayout.deps.json
+D:\Xamarin\XamarinAbsoluteLayout\XamarinAbsoluteLayout\XamarinAbsoluteLayout\bin\Debug\netstandard2.0\XamarinAbsoluteLayout.dll
+D:\Xamarin\XamarinAbsoluteLayout\XamarinAbsoluteLayout\XamarinAbsoluteLayout\bin\Debug\netstandard2.0\XamarinAbsoluteLayout.pdb
+D:\Xamarin\XamarinAbsoluteLayout\XamarinAbsoluteLayout\XamarinAbsoluteLayout\obj\Debug\netstandard2.0\XamarinAbsoluteLayout.csprojAssemblyReference.cache
+D:\Xamarin\XamarinAbsoluteLayout\XamarinAbsoluteLayout\XamarinAbsoluteLayout\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin\XamarinAbsoluteLayout\XamarinAbsoluteLayout\XamarinAbsoluteLayout\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+D:\Xamarin\XamarinAbsoluteLayout\XamarinAbsoluteLayout\XamarinAbsoluteLayout\obj\Debug\netstandard2.0\XamarinAbsoluteLayout.csproj.CoreCompileInputs.cache
+D:\Xamarin\XamarinAbsoluteLayout\XamarinAbsoluteLayout\XamarinAbsoluteLayout\obj\Debug\netstandard2.0\XamarinAbsoluteLayout.AssemblyInfoInputs.cache
+D:\Xamarin\XamarinAbsoluteLayout\XamarinAbsoluteLayout\XamarinAbsoluteLayout\obj\Debug\netstandard2.0\XamarinAbsoluteLayout.AssemblyInfo.cs
+D:\Xamarin\XamarinAbsoluteLayout\XamarinAbsoluteLayout\XamarinAbsoluteLayout\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin\XamarinAbsoluteLayout\XamarinAbsoluteLayout\XamarinAbsoluteLayout\obj\Debug\netstandard2.0\XamarinAbsoluteLayout.dll
+D:\Xamarin\XamarinAbsoluteLayout\XamarinAbsoluteLayout\XamarinAbsoluteLayout\obj\Debug\netstandard2.0\XamarinAbsoluteLayout.pdb
+D:\Xamarin\XamarinAbsoluteLayout\XamarinAbsoluteLayout\XamarinAbsoluteLayout\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+D:\Xamarin\XamarinAbsoluteLayout\XamarinAbsoluteLayout\XamarinAbsoluteLayout\obj\Debug\netstandard2.0\Page3.xaml.g.cs
+D:\Xamarin\XamarinAbsoluteLayout\XamarinAbsoluteLayout\XamarinAbsoluteLayout\obj\Debug\netstandard2.0\Page4.xaml.g.cs
+D:\Xamarin\XamarinAbsoluteLayout\XamarinAbsoluteLayout\XamarinAbsoluteLayout\obj\Debug\netstandard2.0\Page5.xaml.g.cs

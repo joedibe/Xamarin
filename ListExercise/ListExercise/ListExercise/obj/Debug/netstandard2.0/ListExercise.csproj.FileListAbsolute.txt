@@ -1,0 +1,12 @@
+D:\Xamarin\ListExercise\ListExercise\ListExercise\bin\Debug\netstandard2.0\ListExercise.deps.json
+D:\Xamarin\ListExercise\ListExercise\ListExercise\bin\Debug\netstandard2.0\ListExercise.dll
+D:\Xamarin\ListExercise\ListExercise\ListExercise\bin\Debug\netstandard2.0\ListExercise.pdb
+D:\Xamarin\ListExercise\ListExercise\ListExercise\obj\Debug\netstandard2.0\ListExercise.csprojAssemblyReference.cache
+D:\Xamarin\ListExercise\ListExercise\ListExercise\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin\ListExercise\ListExercise\ListExercise\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Xamarin\ListExercise\ListExercise\ListExercise\obj\Debug\netstandard2.0\ListExercise.csproj.CoreCompileInputs.cache
+D:\Xamarin\ListExercise\ListExercise\ListExercise\obj\Debug\netstandard2.0\ListExercise.AssemblyInfoInputs.cache
+D:\Xamarin\ListExercise\ListExercise\ListExercise\obj\Debug\netstandard2.0\ListExercise.AssemblyInfo.cs
+D:\Xamarin\ListExercise\ListExercise\ListExercise\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin\ListExercise\ListExercise\ListExercise\obj\Debug\netstandard2.0\ListExercise.dll
+D:\Xamarin\ListExercise\ListExercise\ListExercise\obj\Debug\netstandard2.0\ListExercise.pdb

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ListExercise"
+             x:Class="ListExercise.MainPage">
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness">
+            <On Platform="iOS" Value="0, 20, 0, 0" />
+            <On Platform="Android, UWP" Value="0, 0, 0, 0" />
+        </OnPlatform>
+    </ContentPage.Padding>
+    <ContentPage.Content>
+        <StackLayout>
+            <SearchBar x:Name="searchBar"
+                       Placeholder="Search..." 
+                       TextChanged="SearchBar_TextChanged"/>
+            <ListView x:Name="hotelListView"
+                      HasUnevenRows="True"
+                      RowHeight="100"
+                      ItemTapped="hotelListView_ItemTapped"
+                      IsPullToRefreshEnabled="True"
+                      Refreshing="hotelListView_Refreshing">
+                <ListView.Header>
+                    <StackLayout Orientation="Horizontal"
+                                 Padding="5, 20, 5, 20">
+                        <Label Text="Recent Searches..." />
+                    </StackLayout>
+                </ListView.Header>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <ViewCell.ContextActions>
+                                <MenuItem Clicked="MenuItem_Clicked" 
+                                          CommandParameter="{Binding .}"
+                                          Text="Delete" />
+                            </ViewCell.ContextActions>
+                            <StackLayout Orientation="Horizontal" 
+                                         Padding="5">
+                                <StackLayout HorizontalOptions="StartAndExpand">
+                                    <Label Text="{Binding NameWithAddress}"
+                                           TextColor="Blue"
+                                           FontAttributes="Bold" />
+                                    <Label Text="{Binding CheckInAndOutDate}" />
+                                </StackLayout>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

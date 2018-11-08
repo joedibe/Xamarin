@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:LayoutExercise"
+             x:Class="LayoutExercise.MainPage">
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness">
+            <On Platform="iOS" Value="0, 20, 0, 0"/>
+            <On Platform="Android, UWP" Value="0, 0, 0, 0"/>
+        </OnPlatform>
+    </ContentPage.Padding>
+    <ContentPage.Content>
+        <ScrollView>
+            <RelativeLayout>
+                <Image x:Name="coverPhotoImage"
+                   Source="https://lh6.googleusercontent.com/25FH2tQ3hNWqcaUxb0wJhRLELNQtgX_Tvl2RetLLqPUPHX8r9UPpZvnOfjnfi3-rRDCPBWPS7oCLhA=w1920-h942-rw"
+                   Aspect="AspectFill"
+                   RelativeLayout.WidthConstraint="{ConstraintExpression 
+                        Type=RelativeToParent, 
+                        Property=Width, 
+                        Factor=1}" 
+                   RelativeLayout.HeightConstraint="{ConstraintExpression 
+                        Type=RelativeToParent,
+                        Property=Height, 
+                        Factor=0.3}">
+                </Image>
+                <Image x:Name="profilePhotoImage"
+                   Source="https://lh3.googleusercontent.com/ZOY58yk0euCdhJoNvsBmPLM8NwN4GpSSdQbuthQDSzqaH9_C4enYC8LFYl3jzZV9MZLqMVBwenC-_Q=w1920-h942-rw"
+                   Aspect="AspectFill"
+                   RelativeLayout.WidthConstraint="{ConstraintExpression 
+                        Type=RelativeToParent,
+                        Property=Width,
+                        Factor=0,
+                        Constant=100}" 
+                   RelativeLayout.HeightConstraint="{ConstraintExpression 
+                        Type=RelativeToParent,
+                        Property=Height,
+                        Factor=0,
+                        Constant=100}"
+                   RelativeLayout.YConstraint="{ConstraintExpression 
+                        Type=RelativeToView,
+                        ElementName=coverPhotoImage, 
+                        Property=Height, 
+                        Factor=0.70}"
+                   RelativeLayout.XConstraint="{ConstraintExpression 
+                        Type=RelativeToParent, 
+                        Property=Width, 
+                        Factor=0.50,
+                        Constant=-50}" >
+                </Image>
+                <StackLayout x:Name="accountInfoLayout" 
+                         RelativeLayout.WidthConstraint="{ConstraintExpression
+                            Type=RelativeToParent,
+                            Property=Width,
+                            Factor=1}"
+                         RelativeLayout.YConstraint="{ConstraintExpression 
+                            Type=RelativeToView,
+                            ElementName=coverPhotoImage, 
+                            Property=Height, 
+                            Factor=0.70,
+                            Constant=120}">
+                    <Label x:Name="accountNameLabel" 
+                       Text="John Edwin Mahor Ibe"
+                       FontSize="Large"
+                       HorizontalTextAlignment="Center"/>
+                    <Label x:Name="bioLabel" 
+                       Text="Don't stop striving for Perfection!"
+                       FontSize="Default"
+                       HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout x:Name="updateLayout"
+                         Orientation="Horizontal"
+                         RelativeLayout.WidthConstraint="{ConstraintExpression
+                            Type=RelativeToParent,
+                            Property=Width,
+                            Factor=1}"
+                         RelativeLayout.HeightConstraint="{ConstraintExpression 
+                            Type=RelativeToView,
+                            ElementName=coverPhotoImage,
+                            Property=Height,
+                            Factor=0.25}"
+                         RelativeLayout.YConstraint="{ConstraintExpression 
+                            Type=RelativeToView,
+                            ElementName=coverPhotoImage, 
+                            Property=Height, 
+                            Factor=1.60}">
+                    <StackLayout HorizontalOptions="CenterAndExpand">
+                        <Image Source="https://cdn2.iconfinder.com/data/icons/picol-vector/32/user_close_edit-512.png"
+                               Aspect="AspectFill"
+                               HorizontalOptions="Center" 
+                               VerticalOptions="Center"
+                               HeightRequest="25"
+                               WidthRequest="25"/>
+                        <Label Text="Post" HorizontalTextAlignment="Center" FontSize="Default"/>
+                    </StackLayout>
+                    <StackLayout HorizontalOptions="CenterAndExpand">
+                        <Image Source="https://cdn2.iconfinder.com/data/icons/picol-vector/32/user_close_edit-512.png"
+                               Aspect="AspectFill"
+                               HorizontalOptions="Center" 
+                               VerticalOptions="Center"
+                               HeightRequest="25"
+                               WidthRequest="25"/>
+                        <Label Text="Update Info" HorizontalTextAlignment="Center" FontSize="Default"/>
+                    </StackLayout>
+                    <StackLayout HorizontalOptions="CenterAndExpand">
+                        <Image Source="https://cdn2.iconfinder.com/data/icons/picol-vector/32/user_close_edit-512.png"
+                               Aspect="AspectFill"
+                               HorizontalOptions="Center" 
+                               VerticalOptions="Center"
+                               HeightRequest="25"
+                               WidthRequest="25"/>
+                        <Label Text="Activity Log" HorizontalTextAlignment="Center" FontSize="Default"/>
+                    </StackLayout>
+                    <StackLayout HorizontalOptions="CenterAndExpand">
+                        <Image Source="https://cdn2.iconfinder.com/data/icons/picol-vector/32/user_close_edit-512.png"
+                               Aspect="AspectFill"
+                               HorizontalOptions="Center" 
+                               VerticalOptions="Center"
+                               HeightRequest="25"
+                               WidthRequest="25"/>
+                        <Label Text="More" HorizontalTextAlignment="Center" FontSize="Default"/>
+                    </StackLayout>
+                </StackLayout>
+                <StackLayout x:Name="buttons"
+                         Spacing="3"
+                         RelativeLayout.WidthConstraint="{ConstraintExpression
+                            Type=RelativeToParent,
+                            Property=Width,
+                            Factor=1}"
+                         RelativeLayout.HeightConstraint="{ConstraintExpression 
+                            Type=RelativeToView,
+                            ElementName=coverPhotoImage,
+                            Property=Height,
+                            Factor=0.5}"
+                         RelativeLayout.YConstraint="{ConstraintExpression 
+                            Type=RelativeToView,
+                            ElementName=coverPhotoImage, 
+                            Property=Height, 
+                            Factor=1.85,
+                            Constant=20}">
+                    <Button Text="Add Bio" HeightRequest="40"/>
+                    <Button Text="Add Details" HeightRequest="40"/>
+                </StackLayout>
+                <Grid RelativeLayout.WidthConstraint="{ConstraintExpression
+                           Type=RelativeToParent,
+                            Property=Width,
+                            Factor=1}"
+                         RelativeLayout.HeightConstraint="{ConstraintExpression 
+                            Type=RelativeToView,
+                            ElementName=coverPhotoImage,
+                            Property=Height,
+                            Factor=1}"
+                         RelativeLayout.YConstraint="{ConstraintExpression 
+                            Type=RelativeToView,
+                            ElementName=coverPhotoImage, 
+                            Property=Height, 
+                            Factor=2.35,
+                            Constant=20}">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Image Source="https://lh3.googleusercontent.com/ZOY58yk0euCdhJoNvsBmPLM8NwN4GpSSdQbuthQDSzqaH9_C4enYC8LFYl3jzZV9MZLqMVBwenC-_Q=w1920-h942-rw"
+                       Aspect="AspectFill"
+                       Grid.Row="0" 
+                       Grid.Column="0"/>
+                    <Image Source="https://lh3.googleusercontent.com/ZOY58yk0euCdhJoNvsBmPLM8NwN4GpSSdQbuthQDSzqaH9_C4enYC8LFYl3jzZV9MZLqMVBwenC-_Q=w1920-h942-rw"
+                       Aspect="AspectFill"  
+                       Grid.Row="0" 
+                       Grid.Column="1"/>
+                    <Image Source="https://lh3.googleusercontent.com/ZOY58yk0euCdhJoNvsBmPLM8NwN4GpSSdQbuthQDSzqaH9_C4enYC8LFYl3jzZV9MZLqMVBwenC-_Q=w1920-h942-rw"
+                       Aspect="AspectFill"
+                       Grid.RowSpan="2" 
+                       Grid.Column="2"/>
+                    <Image Source="https://lh3.googleusercontent.com/ZOY58yk0euCdhJoNvsBmPLM8NwN4GpSSdQbuthQDSzqaH9_C4enYC8LFYl3jzZV9MZLqMVBwenC-_Q=w1920-h942-rw"
+                       Aspect="AspectFill"
+                       Grid.Row="1"
+                       Grid.ColumnSpan="2"/>
+                </Grid>
+            </RelativeLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

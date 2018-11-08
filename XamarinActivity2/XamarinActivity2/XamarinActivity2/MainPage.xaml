@@ -36,7 +36,14 @@
             <Slider
                 x:Name="blueSlider"/>
         </StackLayout>
-    
+
+        <StackLayout
+            VerticalOptions="EndAndExpand">
+            <Label 
+                Text="Exercise 02 @ John Edwin Ibe"
+                HorizontalOptions="End"/>
+        </StackLayout>
+        
     </StackLayout>
 
 </ContentPage>

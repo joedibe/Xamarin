@@ -1,0 +1,1 @@
+C:\Users\jibe\Desktop\Exercise\AbsoluteLayout\AbsoluteLayout\AbsoluteLayout.UWP\AbsoluteLayout.UWP.csproj;x86

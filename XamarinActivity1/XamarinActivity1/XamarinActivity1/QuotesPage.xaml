@@ -17,26 +17,33 @@
                     Text="Next"
                     HorizontalOptions="EndAndExpand"/>
             </StackLayout>
-            
-            <StackLayout BindingContext="{x:Reference fontSizeSlider}">
-                
+
+            <StackLayout 
+                BindingContext="{x:Reference fontSizeSlider}"
+                VerticalOptions="Fill">
+
                 <StackLayout>
                     <Label 
-                        Text="{Binding Value, StringFormat='Font Size: {0:F0}'}"
-                        FontSize="{Binding Value}"/>
+                        Text="{Binding Value, StringFormat='Font Size: {0:F0}'}"/>
                     <Slider 
                         x:Name="fontSizeSlider"/>
                 </StackLayout>
-                
+
                 <ScrollView 
                     x:Name="scrollView">
                     <Label 
                         x:Name="quoteLabel"
                         FontSize="{Binding Value}"/>
                 </ScrollView>
-            
+                
             </StackLayout>
-        
+
+            <StackLayout
+                VerticalOptions="EndAndExpand">
+                <Label 
+                    Text="Exercise 01 @ John Edwin Ibe"/>
+            </StackLayout>
+            
         </StackLayout>
     
     </ContentPage.Content>
